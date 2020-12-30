@@ -19,10 +19,10 @@ a {
 }
 
 #details {
-
+  margin: auto;
+  
 }
 
 div {
   float: left;
-  margin:auto;
 }
