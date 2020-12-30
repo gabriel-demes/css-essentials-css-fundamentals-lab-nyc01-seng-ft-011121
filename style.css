@@ -13,6 +13,11 @@ header {
 
 }
 
+#featured-property p {
+  width: 800px;
+  text-align: center;
+}
+
 a {
   padding-left: 10px;
   padding-right: 10px;
