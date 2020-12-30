@@ -19,10 +19,10 @@ a {
 }
 
 #details {
-  text-align: center;;
-  display: block;
+  
 }
 
 div {
   float: left;
+  margin:auto;
 }
