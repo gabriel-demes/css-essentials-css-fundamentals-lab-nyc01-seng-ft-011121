@@ -8,6 +8,9 @@ header {
   text-align: center;
 }
 
+#featured-property {
+  align-items: center;
+}
 #featured-property p {
   width: 800px;
   text-align: center;
