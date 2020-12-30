@@ -22,3 +22,7 @@ a {
   align: center;
   display: block;
 }
+
+div {
+  float: left;
+}
