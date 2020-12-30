@@ -25,3 +25,7 @@ a {
   padding-right: 10px;
   background-color: gray;
 }
+
+#details {
+  display: block;
+}
