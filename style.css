@@ -8,14 +8,14 @@ header {
   text-align: center;
 }
 
-#featured-property {
+#featured-property figure {
   text-align: center;
 
 }
 
-#featured-property p {
+#featured-property P {
   width: 800px;
-
+  text-align: center;
 }
 
 a {
