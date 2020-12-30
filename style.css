@@ -8,7 +8,7 @@ header {
   text-align: center;
 }
 
-#featured-property figure img {
+#featured-property  img {
   display: flex;
   align-content: center;
 
