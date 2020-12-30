@@ -19,7 +19,7 @@ a {
 }
 
 #details {
-  align: center;
+  align-self: center;;
   display: block;
 }
 
