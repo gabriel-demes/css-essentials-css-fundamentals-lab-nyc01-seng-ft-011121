@@ -17,3 +17,7 @@ a {
   padding-right: 10px;
   background-color: gray;
 }
+
+#details {
+  align-items: center;
+}
