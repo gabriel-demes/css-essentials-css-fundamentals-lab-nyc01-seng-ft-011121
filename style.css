@@ -8,6 +8,7 @@ header {
   text-align: center;
 }
 
-figure {
-  align-items: flex-end;;
+img {
+  margin-left: auto;
+  margin-right: auto;
 }
