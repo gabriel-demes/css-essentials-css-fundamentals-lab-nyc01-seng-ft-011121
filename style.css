@@ -11,3 +11,9 @@ header {
 #featured-property {
   align-items: center;;
 }
+
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: gray;
+}
