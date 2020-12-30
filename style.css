@@ -9,9 +9,8 @@ header {
 }
 
 #featured-property  {
-  width: 900px;
-  margin-left: auto;
-  margin-right: auto;
+  display: flex;
+  align-content: center;
 
 }
 #featured-property p {
