@@ -8,21 +8,3 @@ header {
   text-align: center;
 }
 
-#featured-property {
-  align-self: center;;
-}
-
-a {
-  padding-left: 10px;
-  padding-right: 10px;
-  background-color: gray;
-}
-
-#details {
-  margin: auto;
-
-}
-
-div {
-  float: left;
-}
