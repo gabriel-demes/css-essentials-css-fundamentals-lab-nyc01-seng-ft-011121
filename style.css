@@ -9,8 +9,10 @@ header {
 }
 
 #featured-property img {
+  width: 900px;
   margin-left: auto;
   margin-right: auto;
+  
 }
 #featured-property p {
   width: 800px;
